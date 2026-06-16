@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Jan Jan Rodelas! I'm a 4th year computer science student at STI College Lucena.
+
+## Technical Skills
+---
+- Languages: TypeScript, JavaScript
+- Frameworks & Libraries: Node.js, Express, React
+- Database: PostgreSQL
+- Tools & Platforms: Git, GitHub, Postman, Docker
 
 <!--
 **noobadee/noobadee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
