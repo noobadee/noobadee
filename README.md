@@ -9,7 +9,7 @@ Hi, I'm Jan Jan Rodelas! I'm a 4th year computer science student at STI College 
 
 ## Key Project
 
-- [DepthWork](https://github.com/noobadee/depth-work): It is currently in development.
+- **[DepthWork](https://github.com/noobadee/depth-work)**: It is currently in development.
 
 <!--
 **noobadee/noobadee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
