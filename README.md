@@ -2,7 +2,7 @@ Hi, I'm Jan Jan Rodelas! I'm a 4th year computer science student at STI College 
 
 ## Technical Skills
 
-- **Languages**: TypeScript, JavaScript
+- **Languages**: Python, TypeScript, JavaScript
 - **Frameworks & Libraries**: Node.js, Express, React
 - **Database**: PostgreSQL
 - **Tools & Platforms**: Git, GitHub, Postman, Docker
