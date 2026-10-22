@@ -7,7 +7,7 @@ Hi, I'm Jan Jan Rodelas! I'm a 4th year computer science student at STI College 
 - **Database**: PostgreSQL
 - **Tools & Platforms**: Git, GitHub, Postman, Docker
 
-## Key Project
+## Key Projects
 
 - **[DepthWork](https://github.com/noobadee/depth-work)**: It is currently in development.
 - **[AskPG](https://github.com/noobadee/ask-pg)**: It is currently in development.
